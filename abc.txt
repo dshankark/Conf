@@ -1,13 +1,3 @@
-New2bran1New2bran1
-New2bran1
-<<<<<<< HEAD
-New2bran1
-New2bran1
-=======
->>>>>>> bran1
-New2bran1
-New2bran1
-New2bran1
 New2bran1
 
 
