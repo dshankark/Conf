@@ -10,6 +10,7 @@ New2bran1
 New2bran1
 New2bran1
 <<<<<<< HEAD
+<<<<<<< HEAD
 New2bran1
 <<<<<<< HEAD
 >>>>>>> 7 lines added
@@ -17,6 +18,8 @@ New2bran1
 =======
 New2bran1
 >>>>>>> 7 line abc file
+=======
+>>>>>>> 415c360e0c3bc1310ddeedc873e980b24c1dd997
 
 
 >>>>>>> 6 line abc file
